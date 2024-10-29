@@ -1,0 +1,1051 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "上海市",
+        "ratio": 79.1,
+        "rank": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.44573, 31.218372]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "周口市",
+        "ratio": 71,
+        "rank": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.672165, 33.62077]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "洛阳市",
+        "ratio": 71,
+        "rank": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.44061, 34.657436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "信阳市",
+        "ratio": 51.3,
+        "rank": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.10651, 32.133198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "南阳市",
+        "ratio": 51,
+        "rank": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.53865, 32.997852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "南昌市",
+        "ratio": 50,
+        "rank": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.890495, 28.656153]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "兰州市",
+        "ratio": 49.1,
+        "rank": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.81067, 36.068478]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "郑州市",
+        "ratio": 48.8,
+        "rank": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.71979, 34.721424]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "温州市",
+        "ratio": 48,
+        "rank": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.67571, 27.954031]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "重庆市",
+        "ratio": 47.9,
+        "rank": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.50544, 29.5569]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "铜仁市",
+        "ratio": 47.4,
+        "rank": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.19642, 27.725428]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "焦作市",
+        "ratio": 46.8,
+        "rank": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.23326, 35.21681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "武汉市",
+        "ratio": 45.9,
+        "rank": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.24726, 30.546686]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "濮阳市",
+        "ratio": 45.5,
+        "rank": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.04354, 35.75521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "湘潭市",
+        "ratio": 45.3,
+        "rank": 31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.94443, 27.853018]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "遵义市",
+        "ratio": 44.4,
+        "rank": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.94164, 27.68005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "惠州市",
+        "ratio": 43.4,
+        "rank": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.419716, 22.966717]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "南宁市",
+        "ratio": 42.9,
+        "rank": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.36405, 22.810257]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "平顶山市",
+        "ratio": 42.6,
+        "rank": 35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.286674, 33.745605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "北京市",
+        "ratio": 41.5,
+        "rank": 36
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.43959, 39.96451]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "包头市",
+        "ratio": 41.4,
+        "rank": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.88435, 40.638557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "汕头市",
+        "ratio": 40.8,
+        "rank": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.7323, 23.41704]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "潍坊市",
+        "ratio": 40.7,
+        "rank": 40
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.12958, 36.673855]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "无锡市",
+        "ratio": 39.2,
+        "rank": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.33916, 31.573101]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "安顺市",
+        "ratio": 38.8,
+        "rank": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.918434, 26.244125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "三门峡市",
+        "ratio": 38.1,
+        "rank": 43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.15581, 34.747414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "南京市",
+        "ratio": 33.2,
+        "rank": 53
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.78664, 32.05587]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "中山市",
+        "ratio": 32.3,
+        "rank": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.312416, 22.598476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "邯郸市",
+        "ratio": 31.8,
+        "rank": 55
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.510605, 36.6121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "邵阳市",
+        "ratio": 31.7,
+        "rank": 56
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.47796, 27.232248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "太原市",
+        "ratio": 31.4,
+        "rank": 57
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.55117, 37.83419]
+      }
+    },
+ 
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "芜湖市",
+        "ratio": 0,
+        "rank": 199
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.399506, 31.352842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "资阳市",
+        "ratio": 0,
+        "rank": 200
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.63183, 30.104616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "绥化市",
+        "ratio": 0,
+        "rank": 201
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.984726, 46.64004]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "昌吉回族自治州",
+        "ratio": 0,
+        "rank": 202
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.31184, 44.0184]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "鄂州市",
+        "ratio": 0,
+        "rank": 203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.89125, 30.378517]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "徐州市",
+        "ratio": 0,
+        "rank": 204
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.220665, 34.24579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "宜昌市",
+        "ratio": 0,
+        "rank": 205
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.31644, 30.699064]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "朔州市",
+        "ratio": 0,
+        "rank": 206
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.439156, 39.331764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "衡水市",
+        "ratio": 0,
+        "rank": 208
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.67822, 37.752144]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "珠海市",
+        "ratio": 0,
+        "rank": 209
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.52898, 22.246845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "宜宾市",
+        "ratio": 0,
+        "rank": 210
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.62178, 28.755808]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "本溪市",
+        "ratio": 0,
+        "rank": 211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.7905, 41.30928]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "伊春市",
+        "ratio": 0,
+        "rank": 212
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.86041, 47.725765]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "巴中市",
+        "ratio": 0,
+        "rank": 213
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.75555, 31.850246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "毕节市",
+        "ratio": 0,
+        "rank": 214
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.30333, 27.293505]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "天水市",
+        "ratio": 0,
+        "rank": 215
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.779854, 34.568157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "湖州市",
+        "ratio": 0,
+        "rank": 216
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.15182, 30.86137]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "云浮市",
+        "ratio": 0,
+        "rank": 217
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.08141, 22.941984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "河源市",
+        "ratio": 0,
+        "rank": 218
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.69555, 23.718176]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "六安市",
+        "ratio": 0,
+        "rank": 219
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.528625, 31.754358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "和田地区",
+        "ratio": 0,
+        "rank": 220
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.929756, 37.110428]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "阳泉市",
+        "ratio": 0,
+        "rank": 221
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.567696, 37.877567]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "牡丹江市",
+        "ratio": 0,
+        "rank": 222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [129.61623, 44.581356]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "阳江市",
+        "ratio": 0,
+        "rank": 223
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.98427, 21.878988]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "崇左市",
+        "ratio": 0,
+        "rank": 224
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.37285, 22.39797]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "鹤岗市",
+        "ratio": 0,
+        "rank": 225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [130.27289, 47.307297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "双鸭山市",
+        "ratio": 0,
+        "rank": 226
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [131.15495, 46.68581]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "十堰市",
+        "ratio": 0,
+        "rank": 227
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.81599, 32.630478]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "梅州市",
+        "ratio": 0,
+        "rank": 228
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.10536, 24.288473]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "伊犁",
+        "ratio": 0,
+        "rank": 229
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.30888, 43.929626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "丽江市",
+        "ratio": 0,
+        "rank": 237
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.227615, 26.865055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "马鞍山市",
+        "ratio": 0,
+        "rank": 238
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.51134, 31.6832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "蚌埠市",
+        "ratio": 0,
+        "rank": 239
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.37043, 32.91994]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "西双版纳傣族自治州",
+        "ratio": 0,
+        "rank": 240
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.77808, 21.995108]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "合肥市",
+        "ratio": 0,
+        "rank": 241
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.28772, 31.858076]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "林芝市",
+        "ratio": 0,
+        "rank": 242
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [94.371056, 29.639652]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "菏泽市",
+        "ratio": 0,
+        "rank": 243
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.53128, 35.20016]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "北海市",
+        "ratio": 0,
+        "rank": 244
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.14824, 21.47364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "成都市",
+        "ratio": 0,
+        "rank": 245
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.050545, 30.68348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "遂宁市",
+        "ratio": 0,
+        "rank": 247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.57993, 30.515732]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "山南市",
+        "ratio": 0,
+        "rank": 283
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [91.771194, 29.22901]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "青岛市",
+        "ratio": 0,
+        "rank": 290
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.30073, 36.122597]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "天津市",
+        "ratio": 0,
+        "rank": 291
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.33873, 39.09695]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "镇江市",
+        "ratio": 0,
+        "rank": 292
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.45611, 32.175743]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "泉州市",
+        "ratio": 0,
+        "rank": 293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.59161, 24.92355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "孝感市",
+        "ratio": 0,
+        "rank": 294
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.9355, 30.917162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "晋中市",
+        "ratio": 0,
+        "rank": 295
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.72541, 37.71157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "九江市",
+        "ratio": 0,
+        "rank": 296
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.949974, 29.66355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "庆阳市",
+        "ratio": 0,
+        "rank": 301
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.64708, 35.711227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "保山市",
+        "ratio": 0,
+        "rank": 310
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.1761, 25.115253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "锦州市",
+        "ratio": 0,
+        "rank": 322
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.156715, 41.10769]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "雅安市",
+        "ratio": 0,
+        "rank": 324
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.01823, 30.006311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "鞍山市",
+        "ratio": 0,
+        "rank": 327
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.9708, 41.108807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "西安市",
+        "ratio": 0,
+        "rank": 330
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.99194, 34.2827]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "赤峰市",
+        "ratio": 0,
+        "rank": 332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.920876, 42.272427]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cityName": "海口市",
+        "ratio": 0,
+        "rank": 333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.353905, 19.991325]
+      }
+    }
+  ]
+}
